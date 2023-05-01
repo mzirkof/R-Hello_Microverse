@@ -4,7 +4,9 @@
   "description": "<a name=\"readme-top\"></a>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css-lint": "npx stylelint \"**/*.{css,scss}\"",
+    "css-lint-fix": "npx stylelint \"**/*.{css,scss}\" --fix"
   },
   "repository": {
     "type": "git",
