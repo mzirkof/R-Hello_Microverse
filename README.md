@@ -1,30 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
   <h3><b>Hello Microverse Project</b></h3>
 </div>
@@ -69,27 +44,6 @@ After you're finished please remove all the comments and instructions!
     <li> HTML </li>
     <li> CSS </li>
   </ul>
-
-<!-- <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details> -->
 
 <!-- Features -->
 
@@ -144,9 +98,9 @@ To run the project, just open (double click on) the file named A.html
 
 👤 **Célestin SOUOP (Mzirkof)**
 
-- GitHub: [@githubhandle](https://github.com/mzirkof)
-- Twitter: [@twitterhandle](https://twitter.com/mzirkof)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/celestin-souop-58341a109/)
+- GitHub: [@mzirkof](https://github.com/mzirkof)
+- Twitter: [@mzirkof](https://twitter.com/mzirkof)
+- LinkedIn: [Mzirkof](https://www.linkedin.com/in/celestin-souop-58341a109/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -161,15 +115,6 @@ To run the project, just open (double click on) the file named A.html
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-
-<!-- ## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- SUPPORT -->
 
