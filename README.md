@@ -141,7 +141,6 @@ To run the project, just open (double click on) the file named A.html
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Célestin SOUOP (Mzirkof)**
 
@@ -156,7 +155,6 @@ To run the project, just open (double click on) the file named A.html
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Web and Mobile Versions**
 - [ ] **Responsive Design**
@@ -190,9 +188,6 @@ I would like to thank Microverse, My reviewers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 <!-- LICENSE -->
 
